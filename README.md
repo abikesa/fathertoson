@@ -22,7 +22,9 @@ What you owe your children:
 - Food & shelter
 - Love 
 
+```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P-LUarzcHGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
 
 ### Activation Function, $Q$: 1st, 3rd, 5th, [♭♭7th](https://en.wikipedia.org/wiki/Chord_notation#Chord_quality), 9th  
 - [Hunter](https://en.wikipedia.org/wiki/Luis_Palau)-[gatherer](https://en.wikipedia.org/wiki/Eurofest_%2775)/`War`: spiritual teachings  (I)
