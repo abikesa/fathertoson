@@ -23,16 +23,16 @@
 
 ```{Figure} figures/video.png
 ---
-width: 70%
-height: 70%
+width: 20%
+height: 20%
 ---
 _Video_. Demo
 ```
 
 ```{Figure} figures/audio.png
 ---
-width: 70%
-height: 70%
+width: 20%
+height: 20%
 ---
 _Audio_. Demo
 ```
