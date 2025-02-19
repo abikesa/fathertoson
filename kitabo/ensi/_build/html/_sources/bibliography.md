@@ -3,7 +3,12 @@
 
 *Y'already know! The US is minding its own business, like in Gaza, Greenland, Panama, Ukraine, Canada .*     
 
-<iframe src="media/demo.MOV" style="width:80%;"></iframe>
+<div>
+    <video controls style="width: 100%;">
+      <source src="media/demo.MP4" type="video/mp4">
+      Your browser does not support the video element.
+    </video>
+</div>
 
 <div>
     <audio controls style="width: 70%;">
