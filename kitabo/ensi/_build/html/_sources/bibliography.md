@@ -4,10 +4,11 @@
 *Y'already know! The US is minding its own business, like in Gaza, Greenland, Panama, Ukraine, Canada .*     
 
 
-<video controls width="80%">
+<video controls width="70%" height="350px;" style="transform: rotate(180deg);">
     <source src="media/demo.MP4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
 
 
 
