@@ -19,6 +19,25 @@
     </audio>
 </div>
 
+
+
+```{Figure} figures/video.png
+---
+width: 70%
+height: 70%
+---
+_Video_. Demo
+```
+
+```{Figure} figures/audio.png
+---
+width: 70%
+height: 70%
+---
+_Audio_. Demo
+```
+
+
 ```{bibliography}
 ```
 
