@@ -3,7 +3,7 @@
 
 *Y'already know! The US is minding its own business, like in Gaza, Greenland, Panama, Ukraine, Canada .*     
 
-<iframe src="media/demo.MOV" width="80%"></iframe>
+<iframe src="media/demo.MOV" style="width:80%;"></iframe>
 
 <div>
     <audio controls style="width: 70%;">
